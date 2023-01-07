@@ -1,8 +1,8 @@
 # Eye for An Eye
 
-Content for the [WFRP4e system](https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT) to be used with the [Foundry Virtual Tabletop](https://foundryvtt.com/). Based on the  *Eye for an Eye* adventure, converted from Warhammer Fantasy Roleplay 3rd Edition for Warhammer Fantasy Roleplay 4th Edition published by Cubicle 7. 
+Content for the [WFRP4e system](https://github.com/moo-man/WFRP4e-FoundryVTT) to be used with the [Foundry Virtual Tabletop](https://foundryvtt.com/). Based on the  *Eye for an Eye* adventure, converted from Warhammer Fantasy Roleplay 3rd Edition for Warhammer Fantasy Roleplay 4th Edition published by Cubicle 7. 
 
-[The 30+ page 4E conversion for the module can be downloaded for free here](https://perilousrealm.itch.io/eye) so you should have all the resources you need to bring Grunewald Lodge to life with that and this pack.
+[The 30+ page 4E conversion for the module can be downloaded for free here (website offline) so you should have all the resources you need to bring Grunewald Lodge to life with that and this pack.
 
 ## Contents
 * Actors from the module.
@@ -18,6 +18,6 @@ Content for the [WFRP4e system](https://github.com/CatoThe1stElder/WFRP-4th-Edit
 * Script - Korden's Hammer: This script will check if it is used against the chief villain in the game and will provide a chat message with extra properties.
 
 ## Installation 
-* Add via Foundry VTT Module Setup screen using the Manifest URL: `https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT/master/module.json`
+* Add via Foundry VTT Module Setup screen using the Manifest URL: `https://raw.githubusercontent.com/orangebutblue/WFRP-e4e-4e-FVTT/master/module.json`
 * Drag and drop scenes and actor campaign content directly into the World
 * Import macros into your macro folder
