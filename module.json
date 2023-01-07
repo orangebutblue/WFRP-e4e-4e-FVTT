@@ -1,9 +1,9 @@
 {
-  "name": "wfrp4e-e4e",
+  "id": "wfrp4e-e4e",
   "title": "Eye For An Eye (WFRP 4e)",
   "description": "Content from the Eye for an Eye adventure for Warhammer Fantary Roleplay 4e",
-  "version": "3.2.1",
-  "author": "Stu",
+  "version": "4.0.0",
+  "authors": [{"name": "Stu"}],
   "systems": ["wfrp4e"],
   "scripts": ["scripts/korden.js"],
   "styles": [
@@ -65,12 +65,14 @@
       "path": "packs/eye-for-an-eye-sfx.db",
       "entity": "Playlist",
       "module": "wfrp4e-e4e",
-      "system": "wfrp4e"		
+      "system": "wfrp4e"	
 	}
   ],
-  "languages": ["en"],
-  "minimumCoreVersion": "0.6",
-  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT/master/module.json",
-  "download": "https://github.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT/archive/master.zip",
-  "url": "https://github.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT/"
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
+  "manifest": "https://raw.githubusercontent.com/orangebutblue/WFRP-e4e-4e-FVTT/master/module.json",
+  "download": "https://github.com/orangebutblue/WFRP-e4e-4e-FVTT/archive/master.zip",
+  "url": "https://github.com/orangebutblue/WFRP-e4e-4e-FVTT/"
 } 
